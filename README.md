@@ -11,7 +11,7 @@ DrawSWT.java drawMarkerLines(tracker_x, tracker_y);
 由于MacOS下的swt库的一些bug，导致运行drawMarkerLines(tracker_x, tracker_y)会导致
 崩溃，因此注释掉该行代码。
 影响面：（选项（P）-> 选择角距显示(O)...）设置无法生效，
-即无法通过标注线直观的看出星体间30 60 90 120 180度的相位 
+即无法通过标注线直观的看出星体间30 60 90 120 180度的相位
 
 # 运行调试截图
 ![Alt](https://raw.githubusercontent.com/xdhuangsidi/moira_macOS/master/screenshot.png)
