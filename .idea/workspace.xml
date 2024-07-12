@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e88a45b4-c9ff-47bd-8cd3-dba6215b6b62" name="Changes" comment="提交在m1 macOS下可在IntelliJ IDEA运行的moira代码">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/athomeprojects/moira/DrawSWT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/athomeprojects/moira/DrawSWT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sc.iml" afterDir="false" />
-    </list>
+    <list default="true" id="e88a45b4-c9ff-47bd-8cd3-dba6215b6b62" name="Changes" comment="提交在m1 macOS下可在IntelliJ IDEA运行的moira代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +66,7 @@
       <workItem from="1720780291402" duration="157000" />
       <workItem from="1720780472878" duration="22000" />
       <workItem from="1720780503060" duration="360000" />
-      <workItem from="1720795205110" duration="637000" />
+      <workItem from="1720795205110" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="提交在m1 macOS下可在IntelliJ IDEA运行的moira代码">
       <created>1680621677394</created>
